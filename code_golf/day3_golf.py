@@ -1,9 +1,5 @@
-from aocd import get_data
-import numpy as np
-import re
-sum_of_part_nums = 0
-GEAR_DICT = {}
-lines = get_data(day=3, year=2023).split("\n")
+from aocd import get_data; import numpy as np; import re; sum_of_part_nums = 0
+GEAR_DICT = {}; lines = get_data(day=3, year=2023).split("\n")
 char_array = np.array([list(line) for line in lines], dtype=str)
 for i, row in enumerate(char_array):
     for num in [m for m in re.finditer(r'\d+', lines[i])]:
