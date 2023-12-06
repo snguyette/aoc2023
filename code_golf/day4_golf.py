@@ -9,6 +9,5 @@ for i, line in enumerate(lines):
     wins = sum([1 if num in winning_nums else 0 for num in my_nums])
     winnings += 0 if wins == 0 else 2 ** (wins - 1)
     for j in range(1, wins + 1):
-        if i + j < len(lines):
-            copies[i + j] += copies[i]
+        if i + j < len(lines): copies[i + j] += copies[i]
 print(f'Part 1: {winnings}, Part 2: {sum(copies)}')
