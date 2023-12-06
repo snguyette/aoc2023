@@ -1,6 +1,4 @@
-from aocd import get_data
-winnings = 0
-lines = get_data(day=4, year=2023).split("\n")
+from aocd import get_data; winnings = 0; lines = get_data(day=4, year=2023).split("\n")
 copies = [1]*len(lines)
 for i, line in enumerate(lines):
     card_lists = line.split(": ")[1].split(" | ")
