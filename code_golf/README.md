@@ -5,7 +5,7 @@ puzzles in the fewest lines possible for each day. I am using a maximum line len
 
 ## Scores
 
-| Day | Score |
+| **Day** | **Score** |
 | --- | ----- |
 | 1 | 10 |
 | 2 | 9 |
@@ -13,4 +13,6 @@ puzzles in the fewest lines possible for each day. I am using a maximum line len
 | 4 | 11 |
 | 5 | 24 |
 | 6 | 6 |
-| Total | 77 |
+| 7 | 20 |
+| ----- | -- |
+| **Total** | **97** |
