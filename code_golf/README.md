@@ -15,4 +15,5 @@ puzzles in the fewest lines possible for each day. I am using a maximum line len
 | 6 | 6 |
 | 7 | 20 |
 | 8 | 6 |
-| **Total** | **102** |
+| 9 | 9 |
+| **Total** | **111** |
