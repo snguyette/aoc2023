@@ -7,13 +7,13 @@ puzzles in the fewest lines possible for each day. I am using a maximum line len
 
 | **Day** | **Score** |
 | --- | ----- |
-| 1 | 10 |
+| 1 | 7 |
 | 2 | 9 |
-| 3 | 16 |
+| 3 | 13 |
 | 4 | 11 |
 | 5 | 24 |
 | 6 | 6 |
 | 7 | 20 |
 | 8 | 6 |
-| 9 | 9 |
-| **Total** | **111** |
+| 9 | 8 |
+| **Total** | **104** |
